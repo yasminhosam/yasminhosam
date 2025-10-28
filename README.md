@@ -1,11 +1,5 @@
 # Hi there, I'm Yasmin Hosam 👋
 
-<a href="https://linkedin.com/in/yasmin-hosam">
-  <img align="right" alt="Yasmin's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:hyassmen750@gmail.com">
-  <img align="right" alt="Yasmin's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 I'm a passionate and self-motivated Android Developer from Cairo, Egypt. I love bringing ideas to life by building modern, user-friendly mobile apps with **Kotlin** and **Firebase**. My focus is on writing clean code and creating applications that provide a great user experience.
 

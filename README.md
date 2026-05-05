@@ -1,58 +1,46 @@
-# Hi there, I'm Yasmin Hosam 👋
-
-
-I'm a passionate and self-motivated Android Developer from Cairo, Egypt. I love bringing ideas to life by building modern, user-friendly mobile apps with **Kotlin** and **Firebase**. My focus is on writing clean code and creating applications that provide a great user experience.
-
-As a recent graduate of the prestigious **Digital Egypt Pioneers Program**, I have gained intensive, hands-on experience by building full-featured applications and mastering industry best practices. I am now eager to apply my skills and continue growing in a professional environment.
+<h1 align="center">Yasmin Hosam</h1>
+<h3 align="center">Mobile Developer (Android & Flutter)</h3>
+<p align="center">📍 Cairo, Egypt | ✉️ <a href="mailto:yasminhosam287@gmail.com">Email</a> | 🔗 <a href="https://linkedin.com/in/yasmin-hosam-732414313">LinkedIn</a></p>
 
 ---
 
-### 🔧 My Tech Stack
+Computer Science student (Class of 2027) focused on building mobile applications using **Kotlin**, **Jetpack Compose**, and **Flutter**.
+I apply **Clean Architecture** and state management patterns to develop scalable, API-driven apps, with experience handling caching, offline support, and structured data flow.
+Currently seeking a junior mobile developer role.
 
-**Languages:**
-<div>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</div>
-
-**Android & Development Tools:**
-<div>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Room%20DB-4A4A4A?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Room DB"/>
-  <img src="https://img.shields.io/badge/Retrofit-4A4A4A?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</div>
+## 🛠️ Tech Stack
+* **Core:** Kotlin, Dart, Flutter, Jetpack Compose  
+* **Architecture:** MVVM, Clean Architecture  
+* **State Management:** Cubit (Flutter), ViewModel (Android)  
+* **Data & Networking:** REST APIs, Retrofit, Room, WorkManager, Firebase  
+* **Tools:** Git, GitHub, Postman, Android Studio  
 
 ---
 
-### 🚀 My Projects
+## 🚀 Featured Projects
 
-Here are a few of the projects I built during my learning journey. Please feel free to check out the code!
+### 🛒 [Marketplace App (Flutter)](https://github.com/yasminhosam/Marketplace-App)
+*Cross-platform e-commerce application demonstrating robust REST API integration.*
+* Implemented product listing, filtering, and vendor-based data handling using REST APIs
+* Managed API states using Cubit (loading, success, error)
+* Collaborated using Git (feature branches, pull requests, resolving merge conflicts).
 
-| Project Name | Description | Tech Used |
-| :--- | :--- | :--- |
-| **Orenda - Habit Tracker** | A mobile app to help users build and track daily habits. I developed the core logic, built UI components with Jetpack Compose, and integrated Firebase for real-time data. | `Kotlin` `Jetpack Compose` `Firebase` `MVVM` |
-| **Note App** | A clean note-taking app that allows users to create, edit, and delete notes with persistent local storage, built with a clean MVVM architecture. | `Kotlin` `Room DB` `MVVM` `Android Studio` |
-| **News App** | A dynamic news app that fetches data from a live API and features user authentication with Firebase. | `Kotlin` `Retrofit` `API` `Firebase` `RecyclerView` |
+### 📝 [PROVA - Offline-First Exam System](https://github.com/yasminhosam/Exam-app)
+*Role-based mobile exam platform built for strict network resilience.*
+* Built an offline-first exam system using Room as a local data source
+* Implemented background sync using WorkManager
+* Stored user answers locally and synced them when connectivity was restored
+* Handled basic conflict scenarios between local and remote data
 
----
+### 🍳 [Plateful - Meal Planner](https://github.com/yasminhosam/Meal-Planner)
+*Modern recipe application combining remote API data with persistent local caching.*
+* Integrated meal API data using Retrofit
+* Implemented local caching to reduce repeated API calls
+* Optimized Compose recompositions to improve UI performance
 
-### 🌱 My Goals
-
-* To secure a junior Android Developer role where I can contribute to real-world applications and continue to learn from experienced developers.
-* To deepen my knowledge of advanced Android topics and explore new technologies in the mobile ecosystem.
-* To keep building personal projects that solve real problems.
-
----
-
-### 📫 Let's Connect!
-
-I'm actively looking for new opportunities and would love to connect.
-
-* **LinkedIn:** [linkedin.com/in/yasmin-hosam](https://linkedin.com/in/yasmin-hosam)
-* **Email:** [hyassmen750@gmail.com](mailto:hyassmen750@gmail.com)
+### 🌿[Orenda - Habit Tracker](https://github.com/yasmiinehussien/Habit-Tracker)
+*Digital Egypt Pioneers Program (DEPI) Final Project (Team-Based).*
+* Developed a habit tracking app using Jetpack Compose
+* Implemented daily tracking, categories, and persistence using Room
+* Designed modular UI components for reusable screens
+* Collaborated within a team to deliver the final project
